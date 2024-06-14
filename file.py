@@ -1,5 +1,5 @@
 print('hello world')
 
 def f():
-    return
+    return 1
 
